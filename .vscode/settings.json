@@ -1,0 +1,5 @@
+{
+    "clangd.arguments": [
+        "--query-driver=/home/mac/.platformio/packages/toolchain-xtensa-esp32s3/bin/xtensa-esp32s3-elf-g++"
+    ]
+}
